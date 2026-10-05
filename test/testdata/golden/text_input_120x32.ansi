@@ -1,0 +1,32 @@
+[48;5;236m [1m[38;5;141m◆ [0m[48;5;236m[0m[48;5;236m[1mtext[0m[48;5;236m[38;5;245m │ [0m[48;5;236m[1m200[0m[48;5;236m lines[38;5;245m │ [0m[48;5;236m9.4 KB[38;5;245m │ [0m[48;5;236m[38;5;203mE 49[0m[48;5;236m[38;5;245m │ [0m[48;5;236m[38;5;244m■ done[0m[48;5;236m [38;5;244m0s[0m[48;5;236m                                                                         [0m
+[48;5;141m[38;5;235m[1m 1 Input [0m [38;5;245m 2 Patterns [0m                                                                        [38;5;245mpretty[0m [38;5;245mwrap[0m [38;5;78mfollow[0m [38;5;245m? help[0m 
+[38;5;244m 172[0m[38;5;245m│[0mStarting worker 171 on host-3                                                                                      
+[38;5;244m 173[0m[38;5;245m│[0m2026-10-05T09:00:00Z container started {"pid": 985, "image": "nginx:1.27"}                                         
+[38;5;244m 174[0m[38;5;245m│[0m2026-10-05T09:00:00Z container started {"pid": 226, "image": "nginx:1.27"}                                         
+[38;5;244m 175[0m[38;5;245m│[0mStarting worker 174 on host-3                                                                                      
+[38;5;244m 176[0m[38;5;245m│[0mStarting worker 175 on host-3                                                                                      
+[38;5;244m 177[0m[38;5;245m│[0mERROR: failed to open /var/data/8.db: permission denied                                                            
+[38;5;244m 178[0m[38;5;245m│[0m2026-10-05T09:00:00Z container started {"pid": 870, "image": "nginx:1.27"}                                         
+[38;5;244m 179[0m[38;5;245m│[0m2026-10-05T09:00:00Z container started {"pid": 880, "image": "nginx:1.27"}                                         
+[38;5;244m 180[0m[38;5;245m│[0mERROR: failed to open /var/data/2.db: permission denied                                                            
+[38;5;244m 181[0m[38;5;245m│[0mSomething happened, retrying                                                                                       
+[38;5;244m 182[0m[38;5;245m│[0mStarting worker 181 on host-4                                                                                      
+[38;5;244m 183[0m[38;5;245m│[0mStarting worker 182 on host-1                                                                                      
+[38;5;244m 184[0m[38;5;245m│[0mERROR: failed to open /var/data/2.db: permission denied                                                            
+[38;5;244m 185[0m[38;5;245m│[0mStarting worker 184 on host-1                                                                                      
+[38;5;244m 186[0m[38;5;245m│[0m2026-10-05T09:00:00Z container started {"pid": 851, "image": "nginx:1.27"}                                         
+[38;5;244m 187[0m[38;5;245m│[0mSomething happened, retrying                                                                                       
+[38;5;244m 188[0m[38;5;245m│[0m2026-10-05T09:00:00Z container started {"pid": 678, "image": "nginx:1.27"}                                         
+[38;5;244m 189[0m[38;5;245m│[0mSomething happened, retrying                                                                                       
+[38;5;244m 190[0m[38;5;245m│[0mStarting worker 189 on host-4                                                                                      
+[38;5;244m 191[0m[38;5;245m│[0mSomething happened, retrying                                                                                       
+[38;5;244m 192[0m[38;5;245m│[0m2026-10-05T09:00:00Z container started {"pid": 260, "image": "nginx:1.27"}                                         
+[38;5;244m 193[0m[38;5;245m│[0mSomething happened, retrying                                                                                       
+[38;5;244m 194[0m[38;5;245m│[0mStarting worker 193 on host-1                                                                                      
+[38;5;244m 195[0m[38;5;245m│[0m2026-10-05T09:00:00Z container started {"pid": 511, "image": "nginx:1.27"}                                         
+[38;5;244m 196[0m[38;5;245m│[0mSomething happened, retrying                                                                                       
+[38;5;244m 197[0m[38;5;245m│[0mSomething happened, retrying                                                                                       
+[38;5;244m 198[0m[38;5;245m│[0mStarting worker 197 on host-1                                                                                      
+[38;5;244m 199[0m[38;5;245m│[0mERROR: failed to open /var/data/6.db: permission denied                                                            
+[38;5;244m 200[0m[38;5;245m│[0mStarting worker 199 on host-1                                                                                      
+ [38;5;245mj/k scroll  g/G top/end  ←/→ pan  p pretty  w wrap  n numbers  / filter  F format  tab views  q quit[0m                   

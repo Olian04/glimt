@@ -1,0 +1,96 @@
+# GoReleaser: https://goreleaser.com/
+# CI runs this from .github/workflows/release.yml. Locally:
+#   make release-check    # validate this file
+#   make snapshot         # build every binary into ./dist without publishing
+version: 2
+
+project_name: glimt
+
+before:
+  hooks:
+    - go mod download
+
+# linux and darwin only: term/ has no Windows implementation.
+builds:
+  - id: glimt
+    main: .
+    binary: glimt
+    flags:
+      - -trimpath
+    env:
+      - CGO_ENABLED=0
+    goos:
+      - linux
+      - darwin
+    goarch:
+      - amd64
+      - arm64
+    # .Tag keeps the leading v, so this matches what `go install …@vX.Y.Z` reports.
+    ldflags:
+      - -s -w -X main.version={{ .Tag }}
+
+# Loose binaries named glimt-<os>-<arch>, with no version in the name, so
+# releases/latest/download/glimt-<os>-<arch> is a permanent URL.
+archives:
+  - id: glimt
+    formats: [binary]
+    name_template: "{{ .ProjectName }}-{{ .Os }}-{{ .Arch }}"
+    ids:
+      - glimt
+
+checksum:
+  name_template: checksums.txt
+
+# use: git works locally without GITHUB_TOKEN; commit list between tags.
+changelog:
+  use: git
+  sort: asc
+  abbrev: 7
+  filters:
+    exclude:
+      - "(?i)^merge "
+      - "(?i)^merge pull request"
+      - "^doc:"
+      - "^ops:"
+
+release:
+  prerelease: auto
+  name_template: "{{ if .Prerelease }}Prerelease {{ .Tag }}{{ else }}{{ .Tag }}{{ end }}"
+  # The changelog is inserted between header and footer.
+  header: |
+    {{ if .Prerelease }}**This is a prerelease**: increment {{ .Prerelease }} toward {{ .Major }}.{{ .Minor }}.{{ .Patch }}. Subject to change before the final release.{{ end }}
+
+  footer: |
+    ## Install
+
+    ```bash
+    os=$(uname -s | tr '[:upper:]' '[:lower:]')
+    arch=$(uname -m | sed 's/x86_64/amd64/; s/aarch64/arm64/')
+    curl -fsSL -o glimt "https://github.com/Olian04/glimt/releases/download/{{ .Tag }}/glimt-${os}-${arch}"
+    chmod +x glimt && sudo mv glimt /usr/local/bin/
+    ```
+
+    Or with the Go toolchain: `go install github.com/Olian04/glimt@{{ .Tag }}`
+
+    ## Downloads
+
+    | Asset | Description |
+    |-------|-------------|
+    | `glimt-linux-amd64`, `glimt-linux-arm64` | Linux binaries |
+    | `glimt-darwin-amd64`, `glimt-darwin-arm64` | macOS binaries (Intel, Apple Silicon) |
+    | `checksums.txt` | SHA256 checksums for all files in this release |
+
+    Verify a download (use `shasum -a 256` on macOS):
+
+    ```bash
+    grep " glimt-${os}-${arch}\$" checksums.txt | sha256sum -c -
+    ```
+
+    ## macOS Gatekeeper
+
+    A binary downloaded with `curl` runs as is. If you downloaded it in a browser and macOS says it
+    "could not verify" it:
+
+    ```bash
+    xattr -d com.apple.quarantine glimt-darwin-arm64   # or glimt-darwin-amd64
+    ```

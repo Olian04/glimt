@@ -1,0 +1,21 @@
+NAME                     READY   STATUS             RESTARTS      AGE
+web-0-abc12              1/1     Pending            5             13d
+web-1-abc12              1/1     Running            5             31d
+web-2-abc12              1/1     Running            5             12d
+web-3-abc12              1/1     Pending            3             6d
+web-4-abc12              1/1     CrashLoopBackOff   8 (2m ago)    38d
+web-5-abc12              1/1     Running            9             27d
+web-6-abc12              1/1     Running            8             18d
+web-7-abc12              1/1     Pending            3             21d
+web-8-abc12              1/1     Pending            3             36d
+web-9-abc12              1/1     Running            3             24d
+web-10-abc12             1/1     Pending            8             11d
+web-11-abc12             1/1     CrashLoopBackOff   6 (2m ago)    8d
+web-12-abc12             1/1     Running            6             28d
+web-13-abc12             1/1     Pending            6             40d
+web-14-abc12             1/1     CrashLoopBackOff   2 (2m ago)    14d
+web-15-abc12             1/1     CrashLoopBackOff   0 (2m ago)    35d
+web-16-abc12             1/1     Running            1             21d
+web-17-abc12             1/1     Pending            0             32d
+web-18-abc12             1/1     Running            0             30d
+web-19-abc12             1/1     Running            7             40d

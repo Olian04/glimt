@@ -1,0 +1,201 @@
+id,name,city,age,score
+0,Bob,"New York, NY",55,90.23
+1,Dee,"New York, NY",28,32.64
+2,Bob,"New York, NY",33,48.11
+3,Cid,"New York, NY",59,51.86
+4,Dee,"Stockholm",66,87.80
+5,Bob,"New York, NY",22,98.22
+6,Bob,"Oslo",26,37.61
+7,Ann,"New York, NY",73,9.41
+8,Ann,"Stockholm",76,84.20
+9,Ann,"New York, NY",49,75.30
+10,Ann,"Oslo",34,28.33
+11,Dee,"Oslo",25,84.20
+12,Cid,"New York, NY",42,85.30
+13,Bob,"Stockholm",51,99.34
+14,Ann,"New York, NY",79,85.44
+15,Cid,"Stockholm",68,92.35
+16,Cid,"Oslo",26,22.12
+17,Cid,"Stockholm",65,76.50
+18,Ann,"Stockholm",64,99.73
+19,Bob,"Oslo",33,81.42
+20,Ann,"Stockholm",78,33.24
+21,Dee,"Stockholm",41,87.65
+22,Ann,"Oslo",47,33.20
+23,Cid,"Oslo",61,77.92
+24,Ann,"New York, NY",23,12.89
+25,Ann,"Stockholm",33,20.43
+26,Dee,"Oslo",58,18.52
+27,Ann,"Oslo",79,89.82
+28,Ann,"New York, NY",30,6.68
+29,Bob,"Oslo",31,77.52
+30,Cid,"Stockholm",34,34.73
+31,Cid,"Stockholm",70,45.52
+32,Ann,"Oslo",75,15.54
+33,Dee,"Stockholm",38,33.93
+34,Dee,"Oslo",43,72.86
+35,Ann,"Oslo",40,64.32
+36,Dee,"Oslo",21,44.27
+37,Dee,"Oslo",63,68.74
+38,Ann,"New York, NY",47,23.19
+39,Cid,"New York, NY",28,45.10
+40,Cid,"Stockholm",52,30.27
+41,Dee,"Stockholm",30,56.49
+42,Dee,"Stockholm",36,63.49
+43,Cid,"New York, NY",34,7.71
+44,Dee,"Stockholm",54,55.25
+45,Ann,"Stockholm",62,47.31
+46,Bob,"Oslo",38,29.90
+47,Cid,"New York, NY",69,26.36
+48,Bob,"Oslo",43,49.98
+49,Bob,"Stockholm",44,59.77
+50,Ann,"New York, NY",66,38.72
+51,Ann,"New York, NY",30,85.32
+52,Bob,"Stockholm",62,3.76
+53,Dee,"Stockholm",21,66.90
+54,Cid,"Stockholm",60,83.47
+55,Cid,"Stockholm",30,80.28
+56,Ann,"New York, NY",29,25.57
+57,Bob,"Stockholm",63,75.76
+58,Ann,"New York, NY",53,21.57
+59,Bob,"Oslo",26,86.98
+60,Dee,"New York, NY",67,0.12
+61,Cid,"New York, NY",77,64.66
+62,Ann,"Stockholm",70,7.97
+63,Dee,"Oslo",22,89.75
+64,Bob,"Oslo",77,51.90
+65,Ann,"Oslo",72,29.13
+66,Bob,"Stockholm",38,9.82
+67,Cid,"New York, NY",37,20.04
+68,Ann,"Stockholm",35,82.13
+69,Bob,"Stockholm",52,91.45
+70,Dee,"Oslo",43,78.82
+71,Dee,"New York, NY",79,10.46
+72,Ann,"Oslo",34,47.56
+73,Ann,"Stockholm",39,47.85
+74,Ann,"Stockholm",53,12.56
+75,Dee,"Stockholm",32,5.28
+76,Cid,"Stockholm",74,9.64
+77,Cid,"New York, NY",74,15.33
+78,Bob,"Oslo",21,41.19
+79,Ann,"Stockholm",39,62.55
+80,Cid,"Oslo",21,72.12
+81,Cid,"Oslo",58,2.55
+82,Cid,"Oslo",33,6.78
+83,Cid,"Oslo",52,54.20
+84,Cid,"New York, NY",66,32.24
+85,Dee,"Stockholm",57,20.95
+86,Bob,"Stockholm",66,8.11
+87,Bob,"Stockholm",58,95.10
+88,Ann,"Oslo",51,82.67
+89,Ann,"Stockholm",40,52.73
+90,Bob,"Stockholm",65,97.94
+91,Ann,"Oslo",24,94.81
+92,Dee,"New York, NY",41,40.37
+93,Bob,"New York, NY",41,13.91
+94,Bob,"Oslo",38,18.88
+95,Ann,"Oslo",46,20.67
+96,Dee,"Stockholm",34,5.36
+97,Bob,"Stockholm",62,49.10
+98,Bob,"Stockholm",43,62.93
+99,Dee,"New York, NY",74,88.01
+100,Dee,"Stockholm",73,19.45
+101,Ann,"Stockholm",71,15.56
+102,Dee,"New York, NY",63,21.57
+103,Cid,"Oslo",25,50.58
+104,Ann,"Oslo",28,19.89
+105,Dee,"Oslo",44,92.28
+106,Bob,"Oslo",44,3.42
+107,Bob,"Oslo",43,32.19
+108,Dee,"Oslo",46,70.87
+109,Bob,"Stockholm",62,43.03
+110,Cid,"New York, NY",67,37.32
+111,Dee,"Stockholm",41,75.78
+112,Cid,"Stockholm",31,74.43
+113,Cid,"Stockholm",53,76.15
+114,Cid,"Oslo",53,17.39
+115,Cid,"Oslo",79,87.59
+116,Bob,"Stockholm",57,35.90
+117,Dee,"New York, NY",46,68.40
+118,Bob,"Stockholm",38,65.61
+119,Ann,"Oslo",32,89.80
+120,Dee,"Oslo",44,27.57
+121,Bob,"Oslo",25,63.85
+122,Ann,"New York, NY",67,57.29
+123,Bob,"Stockholm",20,60.46
+124,Cid,"Stockholm",30,83.16
+125,Ann,"New York, NY",66,29.93
+126,Cid,"New York, NY",24,13.34
+127,Dee,"Oslo",80,84.86
+128,Ann,"New York, NY",37,8.40
+129,Bob,"Stockholm",54,57.89
+130,Bob,"New York, NY",36,75.46
+131,Dee,"Oslo",61,28.05
+132,Cid,"Stockholm",29,52.63
+133,Bob,"Oslo",62,30.20
+134,Dee,"Oslo",32,90.93
+135,Dee,"Stockholm",53,98.97
+136,Cid,"Stockholm",77,21.77
+137,Bob,"Oslo",63,67.09
+138,Ann,"New York, NY",33,11.53
+139,Cid,"Stockholm",26,40.59
+140,Ann,"Stockholm",56,5.26
+141,Dee,"Oslo",75,87.48
+142,Bob,"Stockholm",48,23.41
+143,Bob,"New York, NY",80,25.13
+144,Dee,"Oslo",55,56.34
+145,Cid,"Stockholm",58,65.89
+146,Bob,"Stockholm",26,63.43
+147,Bob,"New York, NY",18,51.85
+148,Bob,"New York, NY",20,34.67
+149,Dee,"New York, NY",69,61.20
+150,Bob,"Oslo",59,88.70
+151,Bob,"New York, NY",31,99.99
+152,Bob,"New York, NY",49,66.33
+153,Bob,"Stockholm",31,4.67
+154,Cid,"Stockholm",43,45.72
+155,Cid,"New York, NY",29,11.71
+156,Ann,"Stockholm",36,49.81
+157,Ann,"New York, NY",37,81.05
+158,Cid,"Oslo",33,21.18
+159,Bob,"Stockholm",39,27.88
+160,Cid,"Oslo",76,3.70
+161,Bob,"Stockholm",43,64.57
+162,Bob,"New York, NY",18,46.34
+163,Dee,"Oslo",61,37.11
+164,Dee,"New York, NY",56,0.83
+165,Cid,"New York, NY",22,81.10
+166,Ann,"Oslo",44,94.33
+167,Dee,"Stockholm",37,63.86
+168,Ann,"Oslo",19,42.47
+169,Dee,"Stockholm",43,20.29
+170,Dee,"Oslo",71,2.37
+171,Bob,"Stockholm",61,65.31
+172,Cid,"Stockholm",58,26.32
+173,Ann,"Oslo",36,1.74
+174,Dee,"Stockholm",79,42.52
+175,Ann,"Stockholm",77,66.23
+176,Ann,"Oslo",76,83.61
+177,Dee,"Stockholm",67,7.70
+178,Bob,"Oslo",54,92.93
+179,Cid,"Oslo",22,72.14
+180,Bob,"Stockholm",24,12.76
+181,Cid,"Oslo",63,92.49
+182,Cid,"Oslo",34,41.25
+183,Bob,"Stockholm",47,80.92
+184,Cid,"New York, NY",18,86.93
+185,Cid,"Stockholm",78,96.32
+186,Cid,"New York, NY",61,30.42
+187,Bob,"New York, NY",80,35.09
+188,Cid,"Oslo",23,37.70
+189,Dee,"New York, NY",54,81.59
+190,Bob,"Oslo",48,43.92
+191,Ann,"Oslo",26,51.07
+192,Ann,"Oslo",53,58.18
+193,Cid,"Oslo",74,38.62
+194,Bob,"Oslo",32,24.65
+195,Cid,"New York, NY",57,53.57
+196,Ann,"Oslo",47,50.56
+197,Cid,"New York, NY",18,14.94
+198,Dee,"Stockholm",20,99.75
+199,Dee,"New York, NY",74,83.68

@@ -31,3 +31,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# glimt
+/glimt
+*.ansi.got
+/dist/

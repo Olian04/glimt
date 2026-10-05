@@ -1,0 +1,500 @@
+{"ts": "2026-10-05T09:00:00.137Z", "level": "error", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 33.41, "user_id": 25, "tags": []}
+{"ts": "2026-10-05T09:00:01.096Z", "level": "info", "msg": "processed 4 items", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 26.44, "user_id": 15, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:02.967Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 40.47, "user_id": 25, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:03.221Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 21.83, "user_id": 44, "tags": []}
+{"ts": "2026-10-05T09:00:04.779Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 6.61, "user_id": 47, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:05.123Z", "level": "info", "msg": "processed 93 items", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 43.25, "user_id": 33, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:06.603Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 9.53, "user_id": 45, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:07.755Z", "level": "info", "msg": "processed 12 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 35.02, "user_id": 47, "tags": []}
+{"ts": "2026-10-05T09:00:08.480Z", "level": "info", "msg": "processed 40 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 21.84, "user_id": 23, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:09.361Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 38.9, "user_id": 36, "tags": []}
+{"ts": "2026-10-05T09:00:10.436Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 19.61, "user_id": 23, "tags": []}
+{"ts": "2026-10-05T09:00:11.551Z", "level": "warn", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 47.45, "user_id": 36, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:12.185Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 15.04, "user_id": 40, "tags": []}
+{"ts": "2026-10-05T09:00:13.352Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 24.93, "user_id": 45, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:14.508Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 18.17, "user_id": 7, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:15.921Z", "level": "warn", "msg": "processed 27 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 18.0, "user_id": 11, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:16.721Z", "level": "warn", "msg": "processed 87 items", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 20.53, "user_id": 42, "tags": []}
+{"ts": "2026-10-05T09:00:17.404Z", "level": "debug", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 35.07, "user_id": 5, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:18.939Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 8.45, "user_id": 3, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:19.839Z", "level": "info", "msg": "processed 73 items", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 20.38, "user_id": 23, "tags": []}
+{"ts": "2026-10-05T09:00:20.210Z", "level": "error", "msg": "processed 87 items", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 42.06, "user_id": 33, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:21.017Z", "level": "info", "msg": "processed 79 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 12.7, "user_id": 37, "tags": []}
+{"ts": "2026-10-05T09:00:22.347Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 5.12, "user_id": 44, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:23.496Z", "level": "warn", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 5.89, "user_id": 39, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:24.861Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 55.15, "user_id": 32, "tags": []}
+{"ts": "2026-10-05T09:00:25.593Z", "level": "warn", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 13.12, "user_id": 25, "tags": []}
+{"ts": "2026-10-05T09:00:26.584Z", "level": "warn", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 48.68, "user_id": 30, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:27.110Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 10.78, "user_id": 38, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:28.165Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 37.66, "user_id": 25, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:29.931Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 12.92, "user_id": 2, "tags": []}
+{"ts": "2026-10-05T09:00:30.805Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 17.96, "user_id": 21, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:31.993Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 40.96, "user_id": 23, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:32.187Z", "level": "warn", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 11.03, "user_id": 49, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:33.092Z", "level": "debug", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 41.09, "user_id": 20, "tags": []}
+{"ts": "2026-10-05T09:00:34.342Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 34.14, "user_id": 18, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:35.888Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 7.13, "user_id": 32, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:36.883Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 16.32, "user_id": 33, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:37.300Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 79.98, "user_id": 45, "tags": []}
+{"ts": "2026-10-05T09:00:38.182Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 6.23, "user_id": 44, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:39.827Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 10.41, "user_id": 42, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:40.999Z", "level": "error", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 22.46, "user_id": 18, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:41.577Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 12.35, "user_id": 42, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:42.952Z", "level": "debug", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 27.95, "user_id": 40, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:43.939Z", "level": "debug", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 25.45, "user_id": 33, "tags": []}
+{"ts": "2026-10-05T09:00:44.319Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 29.58, "user_id": 6, "tags": []}
+{"ts": "2026-10-05T09:00:45.918Z", "level": "error", "msg": "processed 66 items", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 5.51, "user_id": 47, "tags": []}
+{"ts": "2026-10-05T09:00:46.506Z", "level": "debug", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 20.64, "user_id": 17, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:47.103Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 24.76, "user_id": 16, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:48.962Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 25.69, "user_id": 14, "tags": []}
+{"ts": "2026-10-05T09:00:49.441Z", "level": "error", "msg": "processed 69 items", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 13.9, "user_id": 36, "tags": []}
+{"ts": "2026-10-05T09:00:50.982Z", "level": "info", "msg": "processed 68 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 14.91, "user_id": 10, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:51.205Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 15.58, "user_id": 8, "tags": []}
+{"ts": "2026-10-05T09:00:52.584Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 21.59, "user_id": 19, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:53.779Z", "level": "debug", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 16.44, "user_id": 49, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:54.331Z", "level": "info", "msg": "processed 16 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 21.35, "user_id": 47, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:55.585Z", "level": "info", "msg": "processed 15 items", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 47.17, "user_id": 47, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:56.203Z", "level": "info", "msg": "processed 77 items", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 17.16, "user_id": 13, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:57.538Z", "level": "info", "msg": "processed 87 items", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 49.14, "user_id": 47, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:00:58.919Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 15.51, "user_id": 41, "tags": ["a"]}
+{"ts": "2026-10-05T09:00:59.801Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 33.83, "user_id": 44, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:00.310Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 20.38, "user_id": 7, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:01.604Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 7.37, "user_id": 11, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:02.095Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 15.53, "user_id": 34, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:03.377Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 21.97, "user_id": 48, "tags": []}
+{"ts": "2026-10-05T09:01:04.401Z", "level": "warn", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 16.03, "user_id": 40, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:05.250Z", "level": "debug", "msg": "processed 4 items", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 28.87, "user_id": 41, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:06.169Z", "level": "error", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 41.46, "user_id": 20, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:07.246Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 13.29, "user_id": 7, "tags": []}
+{"ts": "2026-10-05T09:01:08.046Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 19.84, "user_id": 47, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:09.452Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 13.03, "user_id": 15, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:10.460Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 18.33, "user_id": 14, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:11.732Z", "level": "info", "msg": "processed 43 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 34.5, "user_id": 25, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:12.294Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 7.86, "user_id": 35, "tags": []}
+{"ts": "2026-10-05T09:01:13.578Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 15.42, "user_id": 6, "tags": []}
+{"ts": "2026-10-05T09:01:14.028Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 26.44, "user_id": 41, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:15.992Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 59.97, "user_id": 23, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:16.619Z", "level": "warn", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 23.01, "user_id": 35, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:17.941Z", "level": "debug", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 19.1, "user_id": 21, "tags": []}
+{"ts": "2026-10-05T09:01:18.129Z", "level": "warn", "msg": "processed 5 items", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 42.14, "user_id": 48, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:19.276Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 7.93, "user_id": 17, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:20.826Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 20.16, "user_id": 22, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:21.802Z", "level": "info", "msg": "processed 75 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 39.65, "user_id": 36, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:22.864Z", "level": "error", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 12.11, "user_id": 21, "tags": []}
+{"ts": "2026-10-05T09:01:23.419Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 21.32, "user_id": 21, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:24.279Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 37.81, "user_id": 21, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:25.070Z", "level": "info", "msg": "processed 36 items", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 28.74, "user_id": 34, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:26.589Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 16.65, "user_id": 22, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:27.519Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 40.18, "user_id": 12, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:28.961Z", "level": "error", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 24.64, "user_id": 5, "tags": []}
+{"ts": "2026-10-05T09:01:29.658Z", "level": "info", "msg": "processed 66 items", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 44.8, "user_id": 19, "tags": []}
+{"ts": "2026-10-05T09:01:30.912Z", "level": "info", "msg": "processed 77 items", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 29.87, "user_id": 13, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:31.743Z", "level": "info", "msg": "processed 33 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 21.18, "user_id": 32, "tags": []}
+{"ts": "2026-10-05T09:01:32.413Z", "level": "error", "msg": "processed 66 items", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 35.29, "user_id": 35, "tags": []}
+{"ts": "2026-10-05T09:01:33.841Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 25.5, "user_id": 34, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:34.617Z", "level": "debug", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 20.4, "user_id": 36, "tags": []}
+{"ts": "2026-10-05T09:01:35.258Z", "level": "debug", "msg": "processed 2 items", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 4.11, "user_id": 49, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:36.018Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 6.86, "user_id": 41, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:37.872Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 19.7, "user_id": 10, "tags": []}
+{"ts": "2026-10-05T09:01:38.176Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 37.87, "user_id": 27, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:39.280Z", "level": "info", "msg": "processed 43 items", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 43.52, "user_id": 28, "tags": []}
+{"ts": "2026-10-05T09:01:40.065Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 12.38, "user_id": 50, "tags": []}
+{"ts": "2026-10-05T09:01:41.408Z", "level": "debug", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 22.41, "user_id": 23, "tags": []}
+{"ts": "2026-10-05T09:01:42.968Z", "level": "debug", "msg": "processed 14 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 12.97, "user_id": 46, "tags": []}
+{"ts": "2026-10-05T09:01:43.805Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 16.94, "user_id": 32, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:44.118Z", "level": "error", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 33.86, "user_id": 34, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:45.426Z", "level": "warn", "msg": "processed 37 items", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 53.52, "user_id": 23, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:46.273Z", "level": "info", "msg": "processed 70 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 20.31, "user_id": 16, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:47.151Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 21.9, "user_id": 10, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:48.276Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 20.02, "user_id": 16, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:49.180Z", "level": "error", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 10.23, "user_id": 45, "tags": []}
+{"ts": "2026-10-05T09:01:50.660Z", "level": "info", "msg": "processed 41 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 12.87, "user_id": 17, "tags": []}
+{"ts": "2026-10-05T09:01:51.090Z", "level": "debug", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 14.13, "user_id": 37, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:52.905Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 30.73, "user_id": 48, "tags": []}
+{"ts": "2026-10-05T09:01:53.286Z", "level": "debug", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 20.48, "user_id": 22, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:54.142Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 15.27, "user_id": 34, "tags": []}
+{"ts": "2026-10-05T09:01:55.370Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 24.24, "user_id": 44, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:56.280Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 26.15, "user_id": 18, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:57.093Z", "level": "debug", "msg": "processed 74 items", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 15.45, "user_id": 20, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:01:58.136Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 35.29, "user_id": 2, "tags": ["a"]}
+{"ts": "2026-10-05T09:01:59.551Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 46.66, "user_id": 5, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:00.557Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 25.85, "user_id": 14, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:01.861Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 35.76, "user_id": 39, "tags": []}
+{"ts": "2026-10-05T09:02:02.276Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 15.13, "user_id": 7, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:03.031Z", "level": "info", "msg": "processed 77 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 16.78, "user_id": 7, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:04.797Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 9.45, "user_id": 23, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:05.277Z", "level": "error", "msg": "user login", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 64.3, "user_id": 7, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:06.974Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 14.99, "user_id": 17, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:07.640Z", "level": "info", "msg": "processed 79 items", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 6.34, "user_id": 29, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:08.243Z", "level": "debug", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 8.87, "user_id": 35, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:09.640Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 9.74, "user_id": 12, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:10.733Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 8.92, "user_id": 48, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:11.378Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 22.22, "user_id": 18, "tags": []}
+{"ts": "2026-10-05T09:02:12.153Z", "level": "info", "msg": "processed 49 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 11.75, "user_id": 50, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:13.683Z", "level": "warn", "msg": "cache miss", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 15.02, "user_id": 48, "tags": []}
+{"ts": "2026-10-05T09:02:14.550Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 7.55, "user_id": 5, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:15.957Z", "level": "warn", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 20.56, "user_id": 3, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:16.742Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 6.68, "user_id": 25, "tags": []}
+{"ts": "2026-10-05T09:02:17.573Z", "level": "info", "msg": "processed 83 items", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 40.17, "user_id": 47, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:18.170Z", "level": "error", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 24.14, "user_id": 45, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:19.827Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 31.3, "user_id": 50, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:20.636Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 13.63, "user_id": 18, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:21.478Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 7.02, "user_id": 40, "tags": []}
+{"ts": "2026-10-05T09:02:22.556Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 17.48, "user_id": 41, "tags": []}
+{"ts": "2026-10-05T09:02:23.156Z", "level": "debug", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 31.79, "user_id": 9, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:24.551Z", "level": "warn", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 6.75, "user_id": 26, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:25.767Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 20.9, "user_id": 20, "tags": []}
+{"ts": "2026-10-05T09:02:26.722Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 28.56, "user_id": 4, "tags": []}
+{"ts": "2026-10-05T09:02:27.848Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 24.1, "user_id": 14, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:28.519Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 5.32, "user_id": 17, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:29.003Z", "level": "info", "msg": "processed 26 items", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 7.11, "user_id": 36, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:30.238Z", "level": "info", "msg": "processed 36 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 8.45, "user_id": 30, "tags": []}
+{"ts": "2026-10-05T09:02:31.500Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 24.33, "user_id": 28, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:32.193Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 12.34, "user_id": 38, "tags": []}
+{"ts": "2026-10-05T09:02:33.349Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 18.61, "user_id": 5, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:34.405Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 12.65, "user_id": 36, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:35.017Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 6.44, "user_id": 50, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:36.425Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 20.78, "user_id": 22, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:37.955Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 19.25, "user_id": 35, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:38.342Z", "level": "warn", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 13.7, "user_id": 24, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:39.872Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 28.95, "user_id": 17, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:40.563Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 18.15, "user_id": 36, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:41.656Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 18.6, "user_id": 20, "tags": []}
+{"ts": "2026-10-05T09:02:42.841Z", "level": "warn", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 10.21, "user_id": 24, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:43.038Z", "level": "info", "msg": "processed 41 items", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 41.05, "user_id": 41, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:44.434Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 53.93, "user_id": 47, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:45.469Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 26.96, "user_id": 41, "tags": []}
+{"ts": "2026-10-05T09:02:46.014Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 7.29, "user_id": 14, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:47.295Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 6.81, "user_id": 13, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:48.638Z", "level": "info", "msg": "processed 75 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 16.67, "user_id": 43, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:49.591Z", "level": "debug", "msg": "processed 80 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 24.24, "user_id": 33, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:50.974Z", "level": "error", "msg": "processed 73 items", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 12.54, "user_id": 34, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:51.576Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 22.48, "user_id": 30, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:52.913Z", "level": "info", "msg": "processed 30 items", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 24.78, "user_id": 28, "tags": []}
+{"ts": "2026-10-05T09:02:53.657Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 9.59, "user_id": 21, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:54.316Z", "level": "error", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 53.84, "user_id": 5, "tags": []}
+{"ts": "2026-10-05T09:02:55.799Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 25.86, "user_id": 50, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:02:56.767Z", "level": "error", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 16.9, "user_id": 30, "tags": []}
+{"ts": "2026-10-05T09:02:57.962Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 23.96, "user_id": 26, "tags": ["a"]}
+{"ts": "2026-10-05T09:02:58.215Z", "level": "error", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 27.22, "user_id": 32, "tags": []}
+{"ts": "2026-10-05T09:02:59.691Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 44.33, "user_id": 21, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:00.114Z", "level": "error", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 23.6, "user_id": 15, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:01.765Z", "level": "debug", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 6.43, "user_id": 33, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:02.166Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 27.32, "user_id": 46, "tags": []}
+{"ts": "2026-10-05T09:03:03.067Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 26.06, "user_id": 31, "tags": []}
+{"ts": "2026-10-05T09:03:04.272Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 17.84, "user_id": 36, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:05.463Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 22.88, "user_id": 6, "tags": []}
+{"ts": "2026-10-05T09:03:06.223Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 31.68, "user_id": 29, "tags": []}
+{"ts": "2026-10-05T09:03:07.236Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 11.84, "user_id": 15, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:08.189Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 30.3, "user_id": 19, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:09.258Z", "level": "warn", "msg": "cache miss", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 30.1, "user_id": 23, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:10.782Z", "level": "debug", "msg": "processed 79 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 19.75, "user_id": 12, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:11.664Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 7.33, "user_id": 27, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:12.373Z", "level": "info", "msg": "processed 41 items", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 16.59, "user_id": 20, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:13.129Z", "level": "warn", "msg": "cache miss", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 23.37, "user_id": 6, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:14.259Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 14.26, "user_id": 36, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:15.907Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 10.05, "user_id": 3, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:16.977Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 29.71, "user_id": 22, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:17.123Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 14.91, "user_id": 24, "tags": []}
+{"ts": "2026-10-05T09:03:18.237Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 11.27, "user_id": 18, "tags": []}
+{"ts": "2026-10-05T09:03:19.166Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 20.39, "user_id": 23, "tags": []}
+{"ts": "2026-10-05T09:03:20.443Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 19.73, "user_id": 24, "tags": []}
+{"ts": "2026-10-05T09:03:21.624Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 30.06, "user_id": 11, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:22.707Z", "level": "debug", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 34.57, "user_id": 24, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:23.572Z", "level": "info", "msg": "processed 18 items", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 25.89, "user_id": 21, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:24.091Z", "level": "info", "msg": "processed 44 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 34.57, "user_id": 17, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:25.890Z", "level": "info", "msg": "processed 63 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 23.21, "user_id": 28, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:26.949Z", "level": "error", "msg": "user login", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 23.55, "user_id": 39, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:27.691Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 11.28, "user_id": 45, "tags": []}
+{"ts": "2026-10-05T09:03:28.405Z", "level": "info", "msg": "processed 20 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 23.48, "user_id": 5, "tags": []}
+{"ts": "2026-10-05T09:03:29.531Z", "level": "warn", "msg": "processed 61 items", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 22.85, "user_id": 1, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:30.565Z", "level": "warn", "msg": "processed 95 items", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 8.85, "user_id": 24, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:31.448Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 13.98, "user_id": 3, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:32.580Z", "level": "info", "msg": "processed 23 items", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 44.28, "user_id": 30, "tags": []}
+{"ts": "2026-10-05T09:03:33.322Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 67.79, "user_id": 34, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:34.239Z", "level": "warn", "msg": "processed 91 items", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 21.43, "user_id": 40, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:35.978Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 54.89, "user_id": 22, "tags": []}
+{"ts": "2026-10-05T09:03:36.435Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 14.01, "user_id": 4, "tags": []}
+{"ts": "2026-10-05T09:03:37.739Z", "level": "info", "msg": "processed 13 items", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 11.09, "user_id": 38, "tags": []}
+{"ts": "2026-10-05T09:03:38.601Z", "level": "info", "msg": "processed 76 items", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 8.71, "user_id": 12, "tags": []}
+{"ts": "2026-10-05T09:03:39.569Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 11.69, "user_id": 7, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:40.055Z", "level": "info", "msg": "processed 36 items", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 10.03, "user_id": 28, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:41.758Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 4.49, "user_id": 14, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:42.665Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 11.32, "user_id": 21, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:43.407Z", "level": "info", "msg": "processed 50 items", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 37.09, "user_id": 25, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:44.869Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 13.48, "user_id": 8, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:45.326Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 31.65, "user_id": 45, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:46.843Z", "level": "warn", "msg": "cache miss", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 10.18, "user_id": 40, "tags": []}
+{"ts": "2026-10-05T09:03:47.336Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 26.82, "user_id": 27, "tags": []}
+{"ts": "2026-10-05T09:03:48.805Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 24.83, "user_id": 25, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:49.923Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 15.92, "user_id": 19, "tags": []}
+{"ts": "2026-10-05T09:03:50.444Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 22.86, "user_id": 12, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:51.147Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 7.82, "user_id": 9, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:52.137Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 29.12, "user_id": 45, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:53.606Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 21.71, "user_id": 24, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:54.141Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 8.17, "user_id": 13, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:55.246Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 30.14, "user_id": 7, "tags": []}
+{"ts": "2026-10-05T09:03:56.887Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 21.48, "user_id": 43, "tags": ["a"]}
+{"ts": "2026-10-05T09:03:57.146Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 14.86, "user_id": 14, "tags": []}
+{"ts": "2026-10-05T09:03:58.066Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 12.08, "user_id": 29, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:03:59.097Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 10.8, "user_id": 45, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:00.383Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 39.61, "user_id": 4, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:01.120Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 17.06, "user_id": 2, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:02.653Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 22.0, "user_id": 9, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:03.868Z", "level": "debug", "msg": "processed 91 items", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 9.6, "user_id": 21, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:04.119Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 6.31, "user_id": 6, "tags": []}
+{"ts": "2026-10-05T09:04:05.524Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 9.12, "user_id": 20, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:06.643Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 18.4, "user_id": 21, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:07.452Z", "level": "warn", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 18.34, "user_id": 38, "tags": []}
+{"ts": "2026-10-05T09:04:08.328Z", "level": "warn", "msg": "processed 85 items", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 24.31, "user_id": 41, "tags": []}
+{"ts": "2026-10-05T09:04:09.313Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 4.31, "user_id": 35, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:10.141Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 18.68, "user_id": 21, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:11.380Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 88.74, "user_id": 19, "tags": []}
+{"ts": "2026-10-05T09:04:12.662Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 32.57, "user_id": 41, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:13.704Z", "level": "error", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 26.73, "user_id": 13, "tags": []}
+{"ts": "2026-10-05T09:04:14.056Z", "level": "error", "msg": "request done", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 7.91, "user_id": 11, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:15.153Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 16.9, "user_id": 19, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:16.831Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 23.55, "user_id": 31, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:17.446Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 44.57, "user_id": 23, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:18.932Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 8.98, "user_id": 14, "tags": []}
+{"ts": "2026-10-05T09:04:19.263Z", "level": "info", "msg": "processed 89 items", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 24.99, "user_id": 17, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:20.298Z", "level": "info", "msg": "processed 17 items", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 20.85, "user_id": 15, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:21.660Z", "level": "info", "msg": "processed 38 items", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 11.64, "user_id": 37, "tags": []}
+{"ts": "2026-10-05T09:04:22.182Z", "level": "info", "msg": "processed 46 items", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 9.12, "user_id": 28, "tags": []}
+{"ts": "2026-10-05T09:04:23.062Z", "level": "info", "msg": "processed 50 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 11.23, "user_id": 17, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:24.849Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 16.63, "user_id": 19, "tags": []}
+{"ts": "2026-10-05T09:04:25.822Z", "level": "info", "msg": "processed 53 items", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 54.68, "user_id": 36, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:26.503Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 23.06, "user_id": 3, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:27.085Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 15.07, "user_id": 35, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:28.635Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 15.93, "user_id": 16, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:29.790Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 26.13, "user_id": 17, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:30.803Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 17.8, "user_id": 36, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:31.075Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 4.99, "user_id": 45, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:32.790Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 9.68, "user_id": 36, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:33.010Z", "level": "error", "msg": "processed 22 items", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 13.21, "user_id": 14, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:34.621Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 49.42, "user_id": 29, "tags": []}
+{"ts": "2026-10-05T09:04:35.211Z", "level": "info", "msg": "processed 41 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 24.54, "user_id": 2, "tags": []}
+{"ts": "2026-10-05T09:04:36.651Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 28.83, "user_id": 12, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:37.972Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 12.98, "user_id": 34, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:38.267Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 45.39, "user_id": 26, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:39.541Z", "level": "warn", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 21.64, "user_id": 40, "tags": []}
+{"ts": "2026-10-05T09:04:40.538Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 16.53, "user_id": 27, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:41.854Z", "level": "error", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 17.28, "user_id": 18, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:42.045Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 10.34, "user_id": 35, "tags": []}
+{"ts": "2026-10-05T09:04:43.235Z", "level": "info", "msg": "processed 27 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 23.83, "user_id": 12, "tags": []}
+{"ts": "2026-10-05T09:04:44.579Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 9.23, "user_id": 32, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:45.676Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 22.41, "user_id": 40, "tags": []}
+{"ts": "2026-10-05T09:04:46.185Z", "level": "debug", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 43.11, "user_id": 49, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:47.922Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 10.67, "user_id": 3, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:48.862Z", "level": "error", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 18.09, "user_id": 29, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:49.249Z", "level": "info", "msg": "processed 96 items", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 11.85, "user_id": 37, "tags": []}
+{"ts": "2026-10-05T09:04:50.332Z", "level": "debug", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 9.1, "user_id": 26, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:51.833Z", "level": "info", "msg": "processed 87 items", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 52.43, "user_id": 3, "tags": []}
+{"ts": "2026-10-05T09:04:52.019Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 18.5, "user_id": 22, "tags": []}
+{"ts": "2026-10-05T09:04:53.465Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 8.91, "user_id": 13, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:54.156Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 14.31, "user_id": 40, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:55.166Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 47.61, "user_id": 3, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:56.863Z", "level": "info", "msg": "processed 53 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 27.3, "user_id": 28, "tags": []}
+{"ts": "2026-10-05T09:04:57.855Z", "level": "warn", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 12.71, "user_id": 46, "tags": ["a"]}
+{"ts": "2026-10-05T09:04:58.891Z", "level": "info", "msg": "processed 71 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 25.3, "user_id": 46, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:04:59.543Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 31.87, "user_id": 50, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:00.258Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 11.23, "user_id": 12, "tags": []}
+{"ts": "2026-10-05T09:05:01.097Z", "level": "info", "msg": "processed 71 items", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 8.37, "user_id": 48, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:02.212Z", "level": "info", "msg": "processed 77 items", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 17.73, "user_id": 47, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:03.574Z", "level": "info", "msg": "processed 55 items", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 15.34, "user_id": 25, "tags": []}
+{"ts": "2026-10-05T09:05:04.646Z", "level": "error", "msg": "cache miss", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 12.2, "user_id": 46, "tags": []}
+{"ts": "2026-10-05T09:05:05.367Z", "level": "error", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 30.49, "user_id": 26, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:06.500Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 14.46, "user_id": 26, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:07.522Z", "level": "error", "msg": "processed 35 items", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 6.63, "user_id": 50, "tags": []}
+{"ts": "2026-10-05T09:05:08.939Z", "level": "warn", "msg": "processed 96 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 11.21, "user_id": 46, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:09.523Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 17.43, "user_id": 47, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:10.320Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 7.83, "user_id": 2, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:11.635Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 46.06, "user_id": 4, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:12.832Z", "level": "debug", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 8.23, "user_id": 2, "tags": []}
+{"ts": "2026-10-05T09:05:13.936Z", "level": "warn", "msg": "processed 77 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 26.62, "user_id": 19, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:14.717Z", "level": "error", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 9.19, "user_id": 50, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:15.552Z", "level": "error", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 28.17, "user_id": 42, "tags": []}
+{"ts": "2026-10-05T09:05:16.619Z", "level": "error", "msg": "processed 79 items", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 66.85, "user_id": 48, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:17.163Z", "level": "debug", "msg": "processed 35 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 38.92, "user_id": 10, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:18.246Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 35.06, "user_id": 8, "tags": []}
+{"ts": "2026-10-05T09:05:19.258Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 29.77, "user_id": 37, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:20.896Z", "level": "info", "msg": "processed 46 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 14.53, "user_id": 40, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:21.469Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 36.04, "user_id": 48, "tags": []}
+{"ts": "2026-10-05T09:05:22.374Z", "level": "info", "msg": "processed 13 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 11.68, "user_id": 14, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:23.944Z", "level": "error", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 34.67, "user_id": 9, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:24.685Z", "level": "info", "msg": "processed 55 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 22.19, "user_id": 21, "tags": []}
+{"ts": "2026-10-05T09:05:25.213Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 27.83, "user_id": 49, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:26.092Z", "level": "warn", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 17.99, "user_id": 29, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:27.682Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 9.92, "user_id": 37, "tags": []}
+{"ts": "2026-10-05T09:05:28.031Z", "level": "info", "msg": "processed 33 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 13.21, "user_id": 42, "tags": []}
+{"ts": "2026-10-05T09:05:29.074Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 15.69, "user_id": 27, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:30.602Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 17.0, "user_id": 23, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:31.734Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 36.78, "user_id": 19, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:32.408Z", "level": "error", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 35.44, "user_id": 31, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:33.955Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 67.51, "user_id": 14, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:34.316Z", "level": "warn", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 39.84, "user_id": 31, "tags": []}
+{"ts": "2026-10-05T09:05:35.446Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 23.41, "user_id": 17, "tags": []}
+{"ts": "2026-10-05T09:05:36.296Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 16.87, "user_id": 32, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:37.172Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 20.78, "user_id": 27, "tags": []}
+{"ts": "2026-10-05T09:05:38.978Z", "level": "error", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 13.3, "user_id": 28, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:39.246Z", "level": "warn", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 18.73, "user_id": 48, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:40.823Z", "level": "debug", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 35.08, "user_id": 25, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:41.446Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 19.75, "user_id": 33, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:42.091Z", "level": "info", "msg": "processed 82 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 19.76, "user_id": 41, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:43.694Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 15.33, "user_id": 40, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:44.774Z", "level": "info", "msg": "processed 89 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 35.48, "user_id": 17, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:45.213Z", "level": "info", "msg": "processed 6 items", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 9.35, "user_id": 22, "tags": []}
+{"ts": "2026-10-05T09:05:46.262Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 33.69, "user_id": 34, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:47.739Z", "level": "info", "msg": "processed 29 items", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 22.67, "user_id": 50, "tags": []}
+{"ts": "2026-10-05T09:05:48.054Z", "level": "info", "msg": "processed 84 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 9.33, "user_id": 35, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:49.872Z", "level": "debug", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 13.31, "user_id": 43, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:50.634Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 31.92, "user_id": 15, "tags": []}
+{"ts": "2026-10-05T09:05:51.549Z", "level": "debug", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 27.5, "user_id": 42, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:52.033Z", "level": "error", "msg": "processed 29 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 25.1, "user_id": 50, "tags": []}
+{"ts": "2026-10-05T09:05:53.884Z", "level": "info", "msg": "processed 93 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 10.14, "user_id": 40, "tags": []}
+{"ts": "2026-10-05T09:05:54.293Z", "level": "info", "msg": "processed 34 items", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 6.71, "user_id": 14, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:55.884Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 28.9, "user_id": 28, "tags": ["a"]}
+{"ts": "2026-10-05T09:05:56.433Z", "level": "info", "msg": "processed 78 items", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 33.93, "user_id": 7, "tags": []}
+{"ts": "2026-10-05T09:05:57.979Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 25.56, "user_id": 25, "tags": []}
+{"ts": "2026-10-05T09:05:58.444Z", "level": "error", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 13.71, "user_id": 15, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:05:59.098Z", "level": "info", "msg": "processed 42 items", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 57.01, "user_id": 12, "tags": []}
+{"ts": "2026-10-05T09:06:00.515Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 11.0, "user_id": 9, "tags": []}
+{"ts": "2026-10-05T09:06:01.735Z", "level": "info", "msg": "processed 76 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 11.04, "user_id": 26, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:02.868Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 57.74, "user_id": 45, "tags": []}
+{"ts": "2026-10-05T09:06:03.561Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 10.35, "user_id": 31, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:04.802Z", "level": "warn", "msg": "cache miss", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 29.76, "user_id": 29, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:05.575Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 40.3, "user_id": 43, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:06.477Z", "level": "error", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 22.26, "user_id": 39, "tags": []}
+{"ts": "2026-10-05T09:06:07.130Z", "level": "error", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 57.21, "user_id": 33, "tags": []}
+{"ts": "2026-10-05T09:06:08.687Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 27.0, "user_id": 20, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:09.215Z", "level": "info", "msg": "processed 2 items", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 24.11, "user_id": 4, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:10.391Z", "level": "info", "msg": "processed 3 items", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 31.45, "user_id": 25, "tags": []}
+{"ts": "2026-10-05T09:06:11.530Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 13.63, "user_id": 17, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:12.391Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 34.82, "user_id": 3, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:13.419Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 22.05, "user_id": 42, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:14.305Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 7.99, "user_id": 42, "tags": []}
+{"ts": "2026-10-05T09:06:15.467Z", "level": "warn", "msg": "processed 11 items", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 57.51, "user_id": 9, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:16.958Z", "level": "debug", "msg": "user login", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 42.69, "user_id": 6, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:17.374Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 8.05, "user_id": 49, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:18.314Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 6.46, "user_id": 3, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:19.816Z", "level": "error", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 17.77, "user_id": 32, "tags": []}
+{"ts": "2026-10-05T09:06:20.395Z", "level": "info", "msg": "processed 40 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 24.49, "user_id": 1, "tags": []}
+{"ts": "2026-10-05T09:06:21.825Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 31.64, "user_id": 10, "tags": []}
+{"ts": "2026-10-05T09:06:22.410Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 28.69, "user_id": 8, "tags": []}
+{"ts": "2026-10-05T09:06:23.793Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 44.8, "user_id": 26, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:24.701Z", "level": "info", "msg": "processed 51 items", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 13.37, "user_id": 18, "tags": []}
+{"ts": "2026-10-05T09:06:25.318Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 8.09, "user_id": 48, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:26.977Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 34.1, "user_id": 22, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:27.549Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 24.24, "user_id": 12, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:28.895Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 13.19, "user_id": 24, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:29.334Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 21.22, "user_id": 45, "tags": []}
+{"ts": "2026-10-05T09:06:30.458Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 12.62, "user_id": 3, "tags": []}
+{"ts": "2026-10-05T09:06:31.863Z", "level": "error", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 87.99, "user_id": 46, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:32.571Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 16.38, "user_id": 25, "tags": []}
+{"ts": "2026-10-05T09:06:33.579Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 51.41, "user_id": 24, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:34.533Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 7.93, "user_id": 34, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:35.420Z", "level": "warn", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 53.38, "user_id": 4, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:36.159Z", "level": "warn", "msg": "request done", "http": {"method": "GET", "status": 404, "path": "/api/orders"}, "latency_ms": 13.24, "user_id": 47, "tags": []}
+{"ts": "2026-10-05T09:06:37.096Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/api/users"}, "latency_ms": 39.35, "user_id": 47, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:38.322Z", "level": "info", "msg": "processed 39 items", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 15.8, "user_id": 44, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:39.011Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 7.76, "user_id": 5, "tags": []}
+{"ts": "2026-10-05T09:06:40.991Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 32.25, "user_id": 33, "tags": []}
+{"ts": "2026-10-05T09:06:41.712Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 36.76, "user_id": 14, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:42.302Z", "level": "info", "msg": "processed 24 items", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 18.02, "user_id": 23, "tags": []}
+{"ts": "2026-10-05T09:06:43.607Z", "level": "debug", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 16.46, "user_id": 47, "tags": []}
+{"ts": "2026-10-05T09:06:44.779Z", "level": "debug", "msg": "processed 50 items", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 25.24, "user_id": 50, "tags": []}
+{"ts": "2026-10-05T09:06:45.777Z", "level": "warn", "msg": "processed 70 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 5.56, "user_id": 28, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:46.690Z", "level": "error", "msg": "processed 45 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 11.4, "user_id": 31, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:47.703Z", "level": "error", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/users"}, "latency_ms": 11.1, "user_id": 44, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:48.915Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 5.99, "user_id": 16, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:49.863Z", "level": "info", "msg": "processed 87 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 23.8, "user_id": 15, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:50.618Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 28.41, "user_id": 43, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:51.705Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 22.24, "user_id": 8, "tags": []}
+{"ts": "2026-10-05T09:06:52.367Z", "level": "debug", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 10.24, "user_id": 41, "tags": []}
+{"ts": "2026-10-05T09:06:53.269Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 44.09, "user_id": 22, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:54.171Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 22.62, "user_id": 35, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:55.835Z", "level": "info", "msg": "processed 80 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 28.32, "user_id": 6, "tags": ["a"]}
+{"ts": "2026-10-05T09:06:56.887Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/health"}, "latency_ms": 9.73, "user_id": 28, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:06:57.527Z", "level": "info", "msg": "processed 54 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 40.98, "user_id": 23, "tags": []}
+{"ts": "2026-10-05T09:06:58.084Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 32.41, "user_id": 21, "tags": []}
+{"ts": "2026-10-05T09:06:59.892Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 69.73, "user_id": 32, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:00.472Z", "level": "warn", "msg": "processed 57 items", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 21.1, "user_id": 12, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:01.955Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 24.07, "user_id": 50, "tags": []}
+{"ts": "2026-10-05T09:07:02.710Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 21.79, "user_id": 41, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:03.434Z", "level": "warn", "msg": "processed 83 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 6.4, "user_id": 25, "tags": []}
+{"ts": "2026-10-05T09:07:04.976Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 42.14, "user_id": 44, "tags": []}
+{"ts": "2026-10-05T09:07:05.355Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 27.59, "user_id": 22, "tags": []}
+{"ts": "2026-10-05T09:07:06.817Z", "level": "error", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 51.21, "user_id": 9, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:07.257Z", "level": "info", "msg": "processed 27 items", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 26.03, "user_id": 44, "tags": []}
+{"ts": "2026-10-05T09:07:08.419Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 20.14, "user_id": 1, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:09.057Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 42.97, "user_id": 33, "tags": []}
+{"ts": "2026-10-05T09:07:10.334Z", "level": "error", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 11.65, "user_id": 42, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:11.506Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 24.35, "user_id": 50, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:12.179Z", "level": "info", "msg": "processed 76 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 24.53, "user_id": 11, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:13.835Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 36.46, "user_id": 9, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:14.846Z", "level": "warn", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 13.21, "user_id": 2, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:15.488Z", "level": "debug", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 10.7, "user_id": 36, "tags": []}
+{"ts": "2026-10-05T09:07:16.531Z", "level": "warn", "msg": "cache miss", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 33.49, "user_id": 24, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:17.233Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 8.77, "user_id": 48, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:18.460Z", "level": "info", "msg": "processed 59 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 27.06, "user_id": 49, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:19.858Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 78.02, "user_id": 13, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:20.834Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 34.35, "user_id": 18, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:21.185Z", "level": "debug", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 15.07, "user_id": 8, "tags": []}
+{"ts": "2026-10-05T09:07:22.613Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 14.97, "user_id": 26, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:23.360Z", "level": "info", "msg": "processed 5 items", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 10.97, "user_id": 24, "tags": []}
+{"ts": "2026-10-05T09:07:24.954Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 41.37, "user_id": 18, "tags": []}
+{"ts": "2026-10-05T09:07:25.503Z", "level": "info", "msg": "processed 91 items", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 31.49, "user_id": 33, "tags": []}
+{"ts": "2026-10-05T09:07:26.410Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 24.55, "user_id": 37, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:27.621Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 21.96, "user_id": 28, "tags": []}
+{"ts": "2026-10-05T09:07:28.148Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 13.42, "user_id": 32, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:29.981Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 8.46, "user_id": 27, "tags": []}
+{"ts": "2026-10-05T09:07:30.880Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 21.28, "user_id": 48, "tags": []}
+{"ts": "2026-10-05T09:07:31.167Z", "level": "info", "msg": "processed 96 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 17.08, "user_id": 5, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:32.374Z", "level": "debug", "msg": "processed 20 items", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 29.11, "user_id": 36, "tags": []}
+{"ts": "2026-10-05T09:07:33.542Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 35.98, "user_id": 33, "tags": []}
+{"ts": "2026-10-05T09:07:34.787Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 11.34, "user_id": 20, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:35.257Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 18.28, "user_id": 40, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:36.422Z", "level": "info", "msg": "processed 17 items", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 19.48, "user_id": 34, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:37.352Z", "level": "info", "msg": "processed 17 items", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 16.94, "user_id": 15, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:38.798Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/health"}, "latency_ms": 17.69, "user_id": 40, "tags": []}
+{"ts": "2026-10-05T09:07:39.876Z", "level": "debug", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 30.5, "user_id": 3, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:40.259Z", "level": "info", "msg": "cache miss", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 26.48, "user_id": 21, "tags": []}
+{"ts": "2026-10-05T09:07:41.480Z", "level": "debug", "msg": "processed 67 items", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 31.38, "user_id": 26, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:42.659Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/users"}, "latency_ms": 7.51, "user_id": 16, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:43.846Z", "level": "info", "msg": "processed 45 items", "http": {"method": "POST", "status": 500, "path": "/health"}, "latency_ms": 9.94, "user_id": 3, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:44.208Z", "level": "error", "msg": "user login", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 14.98, "user_id": 10, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:45.059Z", "level": "info", "msg": "processed 49 items", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 23.43, "user_id": 10, "tags": []}
+{"ts": "2026-10-05T09:07:46.496Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/health"}, "latency_ms": 24.99, "user_id": 4, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:47.465Z", "level": "info", "msg": "processed 86 items", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 18.53, "user_id": 15, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:48.963Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/health"}, "latency_ms": 12.66, "user_id": 18, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:49.905Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 19.87, "user_id": 35, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:50.116Z", "level": "error", "msg": "processed 17 items", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 60.79, "user_id": 1, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:51.695Z", "level": "error", "msg": "request done", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 7.95, "user_id": 42, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:52.426Z", "level": "debug", "msg": "request done", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 7.94, "user_id": 29, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:53.637Z", "level": "warn", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 17.64, "user_id": 18, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:07:54.850Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 16.68, "user_id": 27, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:55.633Z", "level": "info", "msg": "processed 56 items", "http": {"method": "GET", "status": 500, "path": "/api/orders"}, "latency_ms": 52.98, "user_id": 42, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:56.966Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 404, "path": "/health"}, "latency_ms": 45.6, "user_id": 49, "tags": []}
+{"ts": "2026-10-05T09:07:57.602Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/orders"}, "latency_ms": 22.48, "user_id": 24, "tags": ["a"]}
+{"ts": "2026-10-05T09:07:58.648Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 8.34, "user_id": 40, "tags": []}
+{"ts": "2026-10-05T09:07:59.787Z", "level": "warn", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 9.05, "user_id": 37, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:08:00.376Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 201, "path": "/api/orders"}, "latency_ms": 3.72, "user_id": 33, "tags": ["a"]}
+{"ts": "2026-10-05T09:08:01.511Z", "level": "info", "msg": "request done", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 27.18, "user_id": 23, "tags": []}
+{"ts": "2026-10-05T09:08:02.732Z", "level": "info", "msg": "processed 89 items", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 17.11, "user_id": 5, "tags": []}
+{"ts": "2026-10-05T09:08:03.643Z", "level": "info", "msg": "processed 97 items", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 32.39, "user_id": 39, "tags": ["a"]}
+{"ts": "2026-10-05T09:08:04.841Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 12.81, "user_id": 17, "tags": []}
+{"ts": "2026-10-05T09:08:05.401Z", "level": "debug", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 41.52, "user_id": 23, "tags": []}
+{"ts": "2026-10-05T09:08:06.002Z", "level": "warn", "msg": "cache miss", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 43.04, "user_id": 17, "tags": []}
+{"ts": "2026-10-05T09:08:07.896Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 500, "path": "/api/users"}, "latency_ms": 8.31, "user_id": 15, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:08:08.771Z", "level": "debug", "msg": "request done", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 40.79, "user_id": 11, "tags": ["a"]}
+{"ts": "2026-10-05T09:08:09.974Z", "level": "info", "msg": "processed 7 items", "http": {"method": "POST", "status": 500, "path": "/api/orders"}, "latency_ms": 20.69, "user_id": 29, "tags": ["a"]}
+{"ts": "2026-10-05T09:08:10.235Z", "level": "warn", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/api/orders"}, "latency_ms": 24.43, "user_id": 2, "tags": []}
+{"ts": "2026-10-05T09:08:11.936Z", "level": "info", "msg": "cache miss", "http": {"method": "GET", "status": 200, "path": "/api/users"}, "latency_ms": 7.81, "user_id": 31, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:08:12.739Z", "level": "error", "msg": "processed 83 items", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 12.47, "user_id": 48, "tags": []}
+{"ts": "2026-10-05T09:08:13.804Z", "level": "info", "msg": "user login", "http": {"method": "GET", "status": 201, "path": "/api/orders"}, "latency_ms": 17.49, "user_id": 6, "tags": []}
+{"ts": "2026-10-05T09:08:14.238Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 404, "path": "/api/orders"}, "latency_ms": 7.07, "user_id": 39, "tags": ["a"]}
+{"ts": "2026-10-05T09:08:15.945Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 200, "path": "/api/users"}, "latency_ms": 26.61, "user_id": 9, "tags": []}
+{"ts": "2026-10-05T09:08:16.855Z", "level": "info", "msg": "request done", "http": {"method": "POST", "status": 200, "path": "/health"}, "latency_ms": 13.77, "user_id": 39, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:08:17.742Z", "level": "error", "msg": "processed 62 items", "http": {"method": "GET", "status": 200, "path": "/health"}, "latency_ms": 15.2, "user_id": 26, "tags": []}
+{"ts": "2026-10-05T09:08:18.600Z", "level": "info", "msg": "user login", "http": {"method": "POST", "status": 500, "path": "/api/users"}, "latency_ms": 25.15, "user_id": 7, "tags": ["a", "b"]}
+{"ts": "2026-10-05T09:08:19.135Z", "level": "info", "msg": "processed 48 items", "http": {"method": "POST", "status": 404, "path": "/api/users"}, "latency_ms": 8.62, "user_id": 30, "tags": ["a"]}

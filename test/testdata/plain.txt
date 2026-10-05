@@ -1,0 +1,200 @@
+ERROR: failed to open /var/data/7.db: permission denied
+Starting worker 1 on host-2
+Starting worker 2 on host-1
+ERROR: failed to open /var/data/2.db: permission denied
+Starting worker 4 on host-4
+Starting worker 5 on host-2
+Something happened, retrying
+Starting worker 7 on host-2
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 343, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/4.db: permission denied
+ERROR: failed to open /var/data/2.db: permission denied
+Something happened, retrying
+Starting worker 13 on host-4
+Starting worker 14 on host-1
+2026-10-05T09:00:00Z container started {"pid": 132, "image": "nginx:1.27"}
+Starting worker 16 on host-4
+ERROR: failed to open /var/data/5.db: permission denied
+ERROR: failed to open /var/data/3.db: permission denied
+ERROR: failed to open /var/data/2.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 620, "image": "nginx:1.27"}
+Starting worker 21 on host-1
+Starting worker 22 on host-4
+Starting worker 23 on host-1
+ERROR: failed to open /var/data/4.db: permission denied
+Starting worker 25 on host-2
+ERROR: failed to open /var/data/5.db: permission denied
+ERROR: failed to open /var/data/8.db: permission denied
+Starting worker 28 on host-4
+Something happened, retrying
+Something happened, retrying
+Starting worker 31 on host-4
+ERROR: failed to open /var/data/7.db: permission denied
+Starting worker 33 on host-4
+Something happened, retrying
+Something happened, retrying
+ERROR: failed to open /var/data/2.db: permission denied
+Something happened, retrying
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 700, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 153, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 663, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/5.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 749, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/7.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 552, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/1.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 682, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 276, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 176, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 850, "image": "nginx:1.27"}
+Starting worker 51 on host-1
+2026-10-05T09:00:00Z container started {"pid": 314, "image": "nginx:1.27"}
+Starting worker 53 on host-4
+ERROR: failed to open /var/data/7.db: permission denied
+ERROR: failed to open /var/data/5.db: permission denied
+Something happened, retrying
+ERROR: failed to open /var/data/6.db: permission denied
+Starting worker 58 on host-1
+Starting worker 59 on host-4
+2026-10-05T09:00:00Z container started {"pid": 654, "image": "nginx:1.27"}
+Starting worker 61 on host-4
+ERROR: failed to open /var/data/5.db: permission denied
+Starting worker 63 on host-3
+ERROR: failed to open /var/data/8.db: permission denied
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 513, "image": "nginx:1.27"}
+Starting worker 67 on host-3
+Starting worker 68 on host-3
+Starting worker 69 on host-3
+Starting worker 70 on host-4
+Starting worker 71 on host-2
+2026-10-05T09:00:00Z container started {"pid": 749, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 462, "image": "nginx:1.27"}
+Starting worker 74 on host-1
+Something happened, retrying
+ERROR: failed to open /var/data/1.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 516, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/4.db: permission denied
+ERROR: failed to open /var/data/4.db: permission denied
+ERROR: failed to open /var/data/7.db: permission denied
+Something happened, retrying
+Something happened, retrying
+ERROR: failed to open /var/data/1.db: permission denied
+Something happened, retrying
+Starting worker 85 on host-1
+ERROR: failed to open /var/data/1.db: permission denied
+Starting worker 87 on host-1
+2026-10-05T09:00:00Z container started {"pid": 986, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/7.db: permission denied
+ERROR: failed to open /var/data/6.db: permission denied
+Something happened, retrying
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 821, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 616, "image": "nginx:1.27"}
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 379, "image": "nginx:1.27"}
+Something happened, retrying
+Something happened, retrying
+Starting worker 99 on host-2
+Something happened, retrying
+Starting worker 101 on host-3
+Something happened, retrying
+Starting worker 103 on host-4
+ERROR: failed to open /var/data/4.db: permission denied
+Starting worker 105 on host-4
+ERROR: failed to open /var/data/6.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 932, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/7.db: permission denied
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 101, "image": "nginx:1.27"}
+Starting worker 111 on host-4
+Starting worker 112 on host-3
+Starting worker 113 on host-3
+Starting worker 114 on host-2
+2026-10-05T09:00:00Z container started {"pid": 236, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 568, "image": "nginx:1.27"}
+Something happened, retrying
+ERROR: failed to open /var/data/1.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 749, "image": "nginx:1.27"}
+Something happened, retrying
+Something happened, retrying
+Something happened, retrying
+ERROR: failed to open /var/data/7.db: permission denied
+ERROR: failed to open /var/data/9.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 521, "image": "nginx:1.27"}
+Something happened, retrying
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 520, "image": "nginx:1.27"}
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 889, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 679, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/3.db: permission denied
+ERROR: failed to open /var/data/7.db: permission denied
+ERROR: failed to open /var/data/3.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 591, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 648, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 182, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 777, "image": "nginx:1.27"}
+Something happened, retrying
+Starting worker 140 on host-3
+2026-10-05T09:00:00Z container started {"pid": 652, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 391, "image": "nginx:1.27"}
+Starting worker 143 on host-3
+Starting worker 144 on host-1
+2026-10-05T09:00:00Z container started {"pid": 141, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/7.db: permission denied
+Something happened, retrying
+ERROR: failed to open /var/data/7.db: permission denied
+Something happened, retrying
+ERROR: failed to open /var/data/8.db: permission denied
+Something happened, retrying
+Starting worker 152 on host-1
+2026-10-05T09:00:00Z container started {"pid": 299, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/9.db: permission denied
+ERROR: failed to open /var/data/2.db: permission denied
+Something happened, retrying
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 265, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/2.db: permission denied
+Starting worker 160 on host-4
+ERROR: failed to open /var/data/3.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 410, "image": "nginx:1.27"}
+Starting worker 163 on host-4
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 609, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 651, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/9.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 558, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 368, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 323, "image": "nginx:1.27"}
+Starting worker 171 on host-3
+2026-10-05T09:00:00Z container started {"pid": 985, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 226, "image": "nginx:1.27"}
+Starting worker 174 on host-3
+Starting worker 175 on host-3
+ERROR: failed to open /var/data/8.db: permission denied
+2026-10-05T09:00:00Z container started {"pid": 870, "image": "nginx:1.27"}
+2026-10-05T09:00:00Z container started {"pid": 880, "image": "nginx:1.27"}
+ERROR: failed to open /var/data/2.db: permission denied
+Something happened, retrying
+Starting worker 181 on host-4
+Starting worker 182 on host-1
+ERROR: failed to open /var/data/2.db: permission denied
+Starting worker 184 on host-1
+2026-10-05T09:00:00Z container started {"pid": 851, "image": "nginx:1.27"}
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 678, "image": "nginx:1.27"}
+Something happened, retrying
+Starting worker 189 on host-4
+Something happened, retrying
+2026-10-05T09:00:00Z container started {"pid": 260, "image": "nginx:1.27"}
+Something happened, retrying
+Starting worker 193 on host-1
+2026-10-05T09:00:00Z container started {"pid": 511, "image": "nginx:1.27"}
+Something happened, retrying
+Something happened, retrying
+Starting worker 197 on host-1
+ERROR: failed to open /var/data/6.db: permission denied
+Starting worker 199 on host-1
